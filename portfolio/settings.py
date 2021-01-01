@@ -132,7 +132,7 @@ STATICFILES_DIRS = [
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
-
+ 
 #For Prod Deployement 
 
 CSRF_COOKIE_SECURE = True
